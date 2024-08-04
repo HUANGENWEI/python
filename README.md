@@ -5,6 +5,8 @@
 ![image](https://github.com/user-attachments/assets/486c3bac-73ca-486e-a526-cd8784d2b2c4)
 # 3.代碼實現
 ![image](https://github.com/user-attachments/assets/a45a0909-df29-4d45-8775-0650624e6195)
+![image](https://github.com/user-attachments/assets/5c184159-8717-476f-9f83-058caf115258)
+
 ![image](https://github.com/user-attachments/assets/fe8ab9d8-cae8-477d-a76c-7ac4d31fa9df)
 ![Uploading image.png…]()
 ![Uploading image.png…]()
