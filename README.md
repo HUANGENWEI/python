@@ -13,5 +13,4 @@
 測試代碼如下:
 ![image](https://github.com/user-attachments/assets/35d13a7e-ad76-4510-9960-d86e9d631126)
 運行結果如下:
-
-
+![image](https://github.com/user-attachments/assets/90f0f923-5f5c-4288-9e89-d333e162315d)
